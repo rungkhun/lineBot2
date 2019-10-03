@@ -31,7 +31,7 @@ def callback():
     else :
          sendText(user,'พิมพ์รายยมาอ้ะ')
     if (userText == 'สวัสดี') :
-        sendText(user,'เออ! ค่ะ')
+        sendText(user,'สวัสดีค่ะ')
     elif (userText == 'ไปล่ะ') :
         sendText(user,'บาย')
     else :
